@@ -1,0 +1,64 @@
+.episode {
+    padding: 40px;
+    background: #000000;
+    border-radius: 32px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.episode_left {
+    margin-left: 52px;
+    text-align: left;
+}
+
+.episode_left_category {
+    display: inline-block;
+    padding: 5px 15px;
+    background: #191919;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.episode_left_episode {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #118DA8;
+    margin-bottom: 30px;
+}
+
+.episode_left_name {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70px;
+    letter-spacing: 2.56px;
+    color: #FFFFFF;
+    margin-bottom: 35px;
+}
+
+.episode_left_text {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 15px;
+}
+
+.episode_left_button {
+    height: 51px;
+    width: 208px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}

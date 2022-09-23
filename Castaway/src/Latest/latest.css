@@ -1,0 +1,30 @@
+.latest{
+    max-width: 450px;
+    min-width: 1300px;
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.latest_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.latest_top_p {
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 79px;
+    letter-spacing: 2.88px;
+}
+
+.latest_top_button {
+    height: 51px;
+    width: 178px;
+    background: #118DA8;
+    border-radius: 6px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
